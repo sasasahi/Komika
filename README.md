@@ -1,7 +1,7 @@
 # 코미카(Komika)
 
 <p align="center">
-  <img src="assets/komika.svg" width="128" alt="Komika logo">
+  <img src="komika.svg" width="128" alt="Komika logo">
 </p>
 
 <p align="center">
